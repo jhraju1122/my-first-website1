@@ -1,0 +1,30 @@
+.yellow-color{
+    color: rgb(241, 99, 5);
+}
+h2{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 80px;
+}
+p{
+    font-size: 25PX;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 8%;
+}
+.half-width img{
+    width: 100%;
+}
+.LINK-BUTTON{
+    text-decoration: none;
+    background-color: rgb(250, 104, 7);
+    color: aliceblue;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(241, 168, 168), TOMATO);
+    font-size: 20PX;
+    border-radius: 5PX;
+    padding: 10PX 40PX;
+}
