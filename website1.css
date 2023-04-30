@@ -29,11 +29,24 @@ p{
     font-size: 30PX;
 
 }
- 
- 
+
 section{
     display: flex;
+     margin-top: 100px;
 }
+
+.my-mission{
+    display: flex;
+ 
+}
+.box-shadow{
+
+    box-shadow: 10px 10px 10px 10px   rgb(43, 41, 41);
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+ 
+
 .half-width{
     width: 50%;
     padding: 8%;
