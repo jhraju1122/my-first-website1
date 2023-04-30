@@ -4,6 +4,11 @@
  .white{
     color: aliceblue;
  }
+ .white-center{
+    text-align: center;
+    color: aliceblue;
+ }
+ 
 h2{
     font-family: 'Abril Fatface', cursive;
     font-size: 80px;
@@ -58,3 +63,15 @@ section{
     width: 2030px;
     background: #000;
 }
+
+
+/* banner */
+
+.top-banner{
+    background-image: url(./shapes/shape-1.png);
+    background-repeat: no-repeat;
+   background-size: 35%;
+ 
+}
+
+ 
