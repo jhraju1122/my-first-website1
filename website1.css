@@ -41,10 +41,13 @@ section{
 }
 .box-shadow{
 
-    box-shadow: 10px 10px 10px 10px   rgb(43, 41, 41);
-    margin-left: 2%;
-    margin-bottom: 5%;
-}
+    border: 1px solid;
+    padding: 20px;
+    box-shadow: 5px 10px #888888;
+    margin: 0 20px;
+    border-radius: 10px;
+  }
+
  
 
 .half-width{
@@ -86,5 +89,3 @@ section{
    background-size: 35%;
  
 }
-
- 
